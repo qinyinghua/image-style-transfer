@@ -1,0 +1,23 @@
+python evaluate.py --checkpoint models/la_muse.ckpt --in-path ./imgs/ --out-path ./results/
+
+
+
+python evaluate.py --allow-different-dimensions --checkpoint models/la_muse.ckpt --in-path ./imgs/ --out-path ./results/
+
+python evaluate.py --allow-different-dimensions --checkpoint models/rain_princess.ckpt --in-path ./imgs/ --out-path ./results/
+
+
+python evaluate.py --allow-different-dimensions --checkpoint models/scream.ckpt --in-path ./imgs/ --out-path ./results/
+
+
+python evaluate.py --allow-different-dimensions --checkpoint models/udnie.ckpt --in-path ./imgs/ --out-path ./results/
+
+
+python evaluate.py --allow-different-dimensions --checkpoint models/wave.ckpt --in-path ./imgs/ --out-path ./results/
+
+
+python evaluate.py --allow-different-dimensions --checkpoint models/wreck.ckpt --in-path ./imgs/ --out-path ./results/
+
+
+
+
