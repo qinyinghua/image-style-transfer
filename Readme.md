@@ -6,16 +6,20 @@ Evaluate the models built by Logan Engstrom (MIT undergraduate) at his github ht
 
 Our friend Niu Niu. 
 
-| Rain Princess                                                |                                                              |
+|                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="assets/1545872562992.png" alt="drawing" width="400"/> | <img src="assets/1545872598681.png" alt="drawing" width="400"/> |
-| ![1545873886329](assets/1545873886329.png)                   | ![1545874208318](assets/1545874208318.png)                   |
+| <img src="assets/1545874468652.png" alt="drawing" width="400"/> | <img src="assets/1545872598681.png" alt="drawing" width="400"/> |
+| ![1545874422561](assets/1545874422561.png)                   | ![1545873886329](assets/1545873886329.png)                   |
 |                                                              |                                                              |
 | <img src="assets/1545873067060.png" alt="drawing" width="400"/> | <img src="assets/1545873142346.png" alt="drawing" width="400"/> |
 
 ![1545874085877](assets/1545874085877.png)
 
+![1545874575910](assets/1545874575910.png)
+
 ![1545874176689](assets/1545874176689.png)
+
+![1545874637850](assets/1545874637850.png)
 
 ```html
 
