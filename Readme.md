@@ -1,8 +1,6 @@
 # Use Neural Network for Image Style Transfer
 
-## Algorithm
-
-The paper from Gatys (University of Tübingen Germany) demonstrated how to separate the "Content" and "Style" on an image, and then combine the "Content" of one image with the "Style" of another image to create a new image. 
+The paper from Gatys (University of Tübingen Germany) demonstrated how to separate the "`Content`" and "`Style`" on an image, and then combine the "`Content`" of one image with the "`Style`" of another image to create a new image. 
 
 https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf
 
