@@ -45,7 +45,7 @@ To generate a new image using one image (say image A) content with another image
 > 5. On each layer included in the style representation, the element-wise mean squared difference between G l and A l is computed to give the style loss L style (left). 
 > 6. Also the mean squared difference between F l and P l is computed to give the content loss L content (right). 
 > 7. The total loss L total is then a linear combination between the content and the style loss.
-> 8. Its derivative with respect to the pixel values can be computed using error back-propagation (middle). This gradient is used to iteratively update the image ~x until it simultaneously matches the style features of the style image ~a and the content features of the content image p~ (middle, bottom).
+> 8. Its derivative with respect to the pixel values can be computed using error back-propagation (middle). This gradient is used to iteratively update the image x until it simultaneously matches the style features of the style image a and the content features of the content image p (middle, bottom).
 
 ![1546044197547](assets/1546044197547.png)
 
